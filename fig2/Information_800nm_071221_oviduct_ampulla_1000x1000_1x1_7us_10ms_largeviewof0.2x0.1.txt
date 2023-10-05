@@ -1,0 +1,12 @@
+B-scans over time 
+Total 1000 data files.
+
+B-scan width: 1000 pixel; total 1270 um.
+B-scan height: 512 pixel; total 1228.8 um; means 2.4 um/pixel
+1000 locations covering total 950 um.
+
+Frame rate: 100 Hz
+
+
+
+
